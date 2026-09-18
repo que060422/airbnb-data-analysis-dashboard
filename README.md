@@ -32,7 +32,7 @@ The project explores Airbnb data across different aspects, including:
 The Tableau dashboard provides interactive visualizations for exploring
 Airbnb listing and pricing trends.
 
-![Airbnb Dashboard](airbnb_dashboard.png)
+![Airbnb Dashboard](airbbnb_dashboard.png)
 
 ## 📁 Project Files
 
