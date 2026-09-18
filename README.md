@@ -3,7 +3,7 @@
 A data analysis and visualization project created using Tableau to explore
 Airbnb listing, pricing, availability, and review trends.
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Skills
 
 - Tableau
 - Data Analysis
